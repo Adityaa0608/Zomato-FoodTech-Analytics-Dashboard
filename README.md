@@ -1,6 +1,6 @@
 # 🍕 Zomato-Food-Tech-Analytics
 
-![Zomato Dashboard](Visuals/Landing_Page.png)
+(Visuals/Overview.png)
 
 ## 🚀 Project Overview
 
