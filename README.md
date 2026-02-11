@@ -38,5 +38,3 @@ I implemented specialized technical features to enhance user experience and busi
 *   **Customer Churn Logic:** Created a "Gained vs. Lost" analysis visual to help marketing teams identify specific age groups and genders where retention is dropping.
 *   **Cuisine Categorization:** Visualized performance across Veg, Non-Veg, and Other categories to optimize menu offerings.
 
----
-🔗 **[Live Interactive Dashboard (NovyPro Link Here)](#)**
