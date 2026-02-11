@@ -1,6 +1,5 @@
 # 🍕 Zomato-Food-Tech-Analytics
 
-![Zomato Dashboard](Visuals/Overview.png)
 
 ## 🚀 Project Overview
 
@@ -26,9 +25,21 @@ This project is a high-fidelity Business Intelligence solution analyzing over **
 The dashboard features a professional sidebar navigation designed in Figma, allowing users to switch between:
 
 1.  **Home:** Branded landing page establishing the Zomato visual identity.
+
+![Zomato Dashboard](Visuals/StartingPage.png)
+
 2.  **Dashboard Overview:** Main reporting page with dynamic metric switching.
+
+![Zomato Dashboard](Visuals/Overview.png)
+
 3.  **User Analysis:** Deep-dive into customer demographics and behavior.
+
+![Zomato Dashboard](Visuals/UserAnalysis.png)
+
 4.  **City Performance:** Geospatial analysis of sales and ratings by region.
+
+
+![Zomato Dashboard](Visuals/CityPerformance.png)
 
 ## 🔍 Dynamic Logic & Churn Analysis
 
